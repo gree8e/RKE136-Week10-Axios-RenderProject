@@ -6,6 +6,12 @@
     box-sizing: border-box;
 }
 
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 html {
     font-family: "Roboto", sans-serif;
     color: #151515;
